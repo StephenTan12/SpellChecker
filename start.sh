@@ -1,4 +1,3 @@
 set -e
 
-go build -o ./tmp/app ./app
-./tmp/app
+go build -o ./tmp/spellcheck ./app
